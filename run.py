@@ -1,3 +1,2 @@
-sentence = "Hello World"
-print(sentence[1])
-print(sentence[:5])
+a, b = 5, 10
+print(a * b)

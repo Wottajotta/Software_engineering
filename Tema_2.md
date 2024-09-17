@@ -33,7 +33,7 @@ print(1.23)
 ```
 
 **Результат**
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/2.1.jpg "2.1")
+![Изображение](https://github.com/Wottajotta/Software_engineering/tree/Тема_2/pic/Lab2_1.png "2.1")
 
 ### Лабораторная работа №2
 **Выведите в консоль три строки. Первая – результат сложения или вычитания минимум двух переменных типа int. Вторая – результат сложения или вычитания минимум двух переменных типа float. Третья – результат сложения или вычитания минимум двух переменных типа int и float.**
@@ -45,7 +45,7 @@ print(3+ 7.04 + 1 + 2.33)
 ```
 
 **Результат**
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/2.2.jpg "2.2")
+![Изображение](https://github.com/Wottajotta/Software_engineering/tree/Тема_2/pic/Lab2_2.png "2.2")
 
 ### Лабораторная работа №3
 **Выведите в консоль три строки. Первая – обычная строка. Вторая – F строка с использованием заранее объявленной переменной. Третья – сложите две или более строк в одну.**
@@ -63,7 +63,7 @@ print(one+two)
 ```
 
 **Результат**
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/2.3.jpg "2.3")
+![Изображение](https://github.com/Wottajotta/Software_engineering/tree/Тема_2/pic/Lab2_3.png "2.3")
 
 ### Лабораторная работа №4
 **Выведите в консоль три строки. Первая – трансформация любого типа переменной в bool. Вторая – трансформация любого типа переменной в float или int. Третья – трансформация любого типа переменной в str.**
@@ -81,7 +81,7 @@ print(str(three))
 
 
 **Результат**
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/2.4.jpg "2.4")
+![Изображение](https://github.com/Wottajotta/Software_engineering/tree/Тема_2/pic/Lab2_4.png "2.4")
 
 ### Лабораторная работа №5
 **Присвойте трем переменным различные значения, воспользовавшись функцией input()**
@@ -94,7 +94,7 @@ print(one, two, three)
 ```
 
 **Результат**
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/2.5.jpg "2.5")
+![Изображение](https://github.com/Wottajotta/Software_engineering/tree/Тема_2/pic/Lab2_5.png "2.5")
 
 ### Лабораторная работа №6
 **Создайте две любые числовые переменные и выполните над ними несколько математических операций: возведение в степень, обычное деление, целочисленное деление, нахождение остатка от деления. При желании вы можете проверить как работают эти вычисления с разными типами данных, например, сначала создать две переменные int, затем создать две переменные float и наконец создать переменные типа int и float и**
@@ -109,7 +109,7 @@ print("Нахождение остатка от деления:", a%b)
 ```
 
 **Результат**
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/2.6%20-%201.jpg "2.6 - 1")
+![Изображение](https://github.com/Wottajotta/Software_engineering/tree/Тема_2/pic/Lab2_6.png "2.6 - 1")
 
 ### Лабораторная работа №7
 **Создайте любую строковую переменную и произведите над ней математическое действие умножение на любое число.**
@@ -120,7 +120,7 @@ print(line*6)
 ```
 
 **Результат**
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/2.7.jpg "2.7")
+![Изображение](https://github.com/Wottajotta/Software_engineering/tree/Тема_2/pic/Lab2_7.png "2.7")
 
 ### Лабораторная работа №8
 **Посчитайте сколько раз символ ‘o’ встречается в строке ‘Hello World’.**
@@ -131,7 +131,7 @@ print(sentence.count('o'))
 ```
 
 **Результат**
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/2.8.jpg "2.8")
+![Изображение](https://github.com/Wottajotta/Software_engineering/tree/Тема_2/pic/Lab2_8.png "2.8")
 
 ### Лабораторная работа №9
 **Напишите предложение ‘Hello World’ в две строки. Написанная программа должна занимать одну строку в редакторе кода**
@@ -141,7 +141,7 @@ print("Hello\nWorld!")
 ```
 
 **Результат**
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/2.9%20-%201.jpg "2.9 - 1")
+![Изображение](https://github.com/Wottajotta/Software_engineering/tree/Тема_2/pic/Lab2_9.png "2.9 - 1")
 
 
 ### Лабораторная работа №10
@@ -154,5 +154,5 @@ print(sentence[:5])
 ```
 
 **Результат**
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/2.10.jpg "2.10")
+![Изображение](https://github.com/Wottajotta/Software_engineering/tree/Тема_2/pic/Lab2_10.png "2.10")
 

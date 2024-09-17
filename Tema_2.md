@@ -121,7 +121,7 @@ print("Нахождение остатка от деления:", a%b)
 **Результат**
 
 
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_6.png "2.6 - 1")
+![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_6.png "2.6")
 
 ### Лабораторная работа №7
 **Создайте любую строковую переменную и произведите над ней математическое действие умножение на любое число.**
@@ -159,7 +159,7 @@ print("Hello\nWorld!")
 **Результат**
 
 
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_9.png "2.9 - 1")
+![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_9.png "2.9")
 
 
 ### Лабораторная работа №10
@@ -188,7 +188,7 @@ print(b)
 **Результат**
 
 
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_10.png "2.10")
+![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Sam2_1.png "2.1")
 
 
 **Вывод**: Здесь используется выражение (1 == 3), которое всегда будет False. Эта переменная затем выводится на экран.
@@ -205,7 +205,7 @@ print(a, b, c)
 **Результат**
 
 
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_10.png "2.10")
+![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Sam2_2.png "2.2")
 
 
 **Вывод**: Здесь используется множественное присвоение для трех переменных и выводим их значения в одной строке.
@@ -222,7 +222,7 @@ print(int(n) if n.isdigit() else "Ошибка")
 **Результат**
 
 
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_10.png "2.10")
+![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Sam2_3.png "2.3")
 
 
 **Вывод**: Программа принимает ввод от пользователя и проверяет, является ли он числом. Если нет, выводится сообщение об ошибке.
@@ -239,7 +239,7 @@ print(s * 6)
 **Результат**
 
 
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_10.png "2.10")
+![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Sam2_4.png "2.4")
 
 
 **Вывод**: Здесь создаем строку из трех символов и повторяем ее шесть раз, чтобы получить строку длиной 18 символов.
@@ -256,7 +256,7 @@ print(f"Сегодня {d}. {m} {y}.", end=" Всего хорошего!")
 **Результат**
 
 
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_10.png "2.10")
+![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Sam2_5.png "2.5")
 
 
 **Вывод**: Здесь используем f-строку для форматирования даты и оператор end для добавления дополнительного текста без новой строки.
@@ -273,7 +273,7 @@ print(phrase.replace("World", "my World"))
 **Результат**
 
 
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_10.png "2.10")
+![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Sam2_6.png "2.6")
 
 
 **Вывод**: Здесь используем метод replace, чтобы заменить "World" на "my World".
@@ -290,7 +290,7 @@ print(len(phrase))
 **Результат**
 
 
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_10.png "2.10")
+![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Sam2_7.png "2.7")
 
 
 **Вывод**: Метод len() возвращает количество символов в строке, включая пробел.
@@ -307,7 +307,7 @@ print(phrase.lower())
 **Результат**
 
 
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_10.png "2.10")
+![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Sam2_8.png "2.8")
 
 
 **Вывод**: Метод lower() преобразует все символы строки в нижний регистр.
@@ -325,7 +325,7 @@ print(a * b)
 **Результат**
 
 
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_10.png "2.10")
+![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Sam2_9.png "2.9")
 
 
 **Вывод**: Умножаем два числа и выводим результат 
@@ -342,7 +342,7 @@ print("Положительное" if n > 0 else "Отрицательное")
 **Результат**
 
 
-![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_10.png "2.10")
+![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Sam2_10.png "2.10")
 
 
 **Вывод**: Программа принимает число от пользователя и проверяет его знак, выводя соответствующее сообщение

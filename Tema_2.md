@@ -33,6 +33,8 @@ print(1.23)
 ```
 
 **Результат**
+
+
 ![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_1.png "2.1")
 
 ### Лабораторная работа №2
@@ -45,6 +47,8 @@ print(3+ 7.04 + 1 + 2.33)
 ```
 
 **Результат**
+
+
 ![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_2.png "2.2")
 
 ### Лабораторная работа №3
@@ -63,6 +67,8 @@ print(one+two)
 ```
 
 **Результат**
+
+
 ![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_3.png "2.3")
 
 ### Лабораторная работа №4
@@ -81,6 +87,8 @@ print(str(three))
 
 
 **Результат**
+
+
 ![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_4.png "2.4")
 
 ### Лабораторная работа №5
@@ -94,6 +102,8 @@ print(one, two, three)
 ```
 
 **Результат**
+
+
 ![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_5.png "2.5")
 
 ### Лабораторная работа №6
@@ -109,6 +119,8 @@ print("Нахождение остатка от деления:", a%b)
 ```
 
 **Результат**
+
+
 ![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_6.png "2.6 - 1")
 
 ### Лабораторная работа №7
@@ -120,6 +132,8 @@ print(line*6)
 ```
 
 **Результат**
+
+
 ![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_7.png "2.7")
 
 ### Лабораторная работа №8
@@ -131,6 +145,8 @@ print(sentence.count('o'))
 ```
 
 **Результат**
+
+
 ![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_8.png "2.8")
 
 ### Лабораторная работа №9
@@ -141,6 +157,8 @@ print("Hello\nWorld!")
 ```
 
 **Результат**
+
+
 ![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_9.png "2.9 - 1")
 
 
@@ -154,5 +172,7 @@ print(sentence[:5])
 ```
 
 **Результат**
+
+
 ![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_2/pic/Lab2_10.png "2.10")
 

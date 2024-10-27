@@ -83,6 +83,9 @@ my_electric_car.drive()
 my_electric_car.charge()
 ```
 
+### Результат.
+![Изображение](https://github.com/Wottajotta/Software_engineering/blob/Тема_8/pic/Lab8_3.png "8.3")
+
 ### Выводы.
 Здесь реализуем родительский класс Car, дочерний класс ElectricCar. Далее наглядно показываем метод наследования между классами.
 
